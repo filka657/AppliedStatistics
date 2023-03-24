@@ -43,8 +43,6 @@ properties_for_normal(arr_of_dicts, normal_keys)
 properties(min(data), m, h, keys[-1][0], new_arr_of_dicts, names_intervals, new_arr_of_dicts)
 
 
-print("\n\n---Первая группа---\n")
-
 properties_for_first_group(arr_of_dicts, normal_keys)
 
 
